@@ -175,7 +175,7 @@ global-environmental-hub/
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Copyright (c) 2025 NowGo Holding. All rights reserved.
 
 ## 📞 Contato
 
