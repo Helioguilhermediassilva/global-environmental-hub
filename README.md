@@ -177,10 +177,6 @@ global-environmental-hub/
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 📊 Demonstrações
-
-*Em desenvolvimento*
-
 ## 📞 Contato
 
-*Em desenvolvimento*
+helio@nowgo.com.br
