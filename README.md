@@ -2,7 +2,7 @@
 
 ## 🌎 Visão Geral e Missão
 
-O Global Environmental Intelligence Hub (GEIH) é uma plataforma de código aberto que unifica dados ambientais de fontes nacionais e globais, integrando modelos preditivos com IA para permitir monitoramento contínuo, análise preditiva e disseminação de alertas ambientais.
+O Global Environmental Intelligence Hub (GEIH) é uma plataforma que unifica dados ambientais de fontes nacionais e globais, integrando modelos preditivos com IA para permitir monitoramento contínuo, análise preditiva e disseminação de alertas ambientais.
 
 Nossa missão é democratizar o acesso a dados ambientais e criar uma infraestrutura tecnológica que permita:
 - Monitoramento em tempo real de eventos ambientais críticos
